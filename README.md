@@ -7,4 +7,7 @@ This makes it easy to check if any of your old pals is playing on the same serve
 
 Slash command: "/recifriend"
 
+
 WARNING: The addon may add a lot of people to your friends list.
+
+Note: You can add more friends to the list in ReciFriend.lua.
