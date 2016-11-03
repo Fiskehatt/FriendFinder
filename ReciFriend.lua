@@ -4,8 +4,7 @@
 local function addFriends()
 	DEFAULT_CHAT_FRAME:AddMessage("Adding your old pals!")	
 	for i, name in ipairs(ReciFriendsList) do
-		local lol = AddFriend(name)
-		DEFAULT_CHAT_FRAME:AddMessage(lol)
+		AddFriend(name)
 	end
 	DEFAULT_CHAT_FRAME:AddMessage("Finished!")
 	ToggleFriendsFrame(1)
