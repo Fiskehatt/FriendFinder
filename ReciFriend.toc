@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: ReciFriend
+## Version: 2016-11-03
+## Notes: Tries to add your old friends from Reciprocity to your friends list
+## Author: Coax - Nostalrius PvP
+
+ReciFriend.xml
+ReciFriend.lua
