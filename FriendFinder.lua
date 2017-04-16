@@ -21,7 +21,7 @@ function FriendFinder_OnLoad()
 	DEFAULT_CHAT_FRAME:AddMessage("Type /friendfinder to add your old friends!")
 end
 
--- Add your friends name here
+-- Add your friends' names here
 ReciFriendsList = {
 "Name1",
 "Name2",
