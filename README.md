@@ -1,13 +1,13 @@
-# ReciFriend
+# FriendFinder
 
-An addon that helps you find your old Reciprocity friends!
+An addon that helps you find your old friends from other servers!
 
-The addon tries to add your old Reciprocity friends to your friends list. 
-This makes it easy to check if any of your old pals is playing on the same server :)
+The addon tries to add your old friends to your friends list. 
+This makes it easy to check if any of your old pals are playing on the same server :)
 
-Slash command: "/recifriend"
+Slash command: "/friendfinder"
 
 
 WARNING: The addon may add a lot of people to your friends list.
 
-Note: You can add more friends to the list in ReciFriend.lua.
+Note: You must add your friends to FriendFinder.lua for the addon to work.
