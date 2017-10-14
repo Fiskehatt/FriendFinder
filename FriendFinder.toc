@@ -4,5 +4,5 @@
 ## Notes: Tries to add your old friends to your friends list! Add the names to FriendFinder.lua!
 ## Author: Coax - Anathema PvP
 
-ReciFriend.xml
-ReciFriend.lua
+FriendFinder.xml
+FriendFinder.lua
